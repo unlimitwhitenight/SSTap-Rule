@@ -18,6 +18,25 @@
 
 ## 更新日志
 
+### 2019年5月2日
+
+更新 `Fortnite` （亞服）游戏规则 By @partment
+
+### 2019年4月10日
+
+更新 `Final Fantasy XIV` （国际服）游戏规则 By @Bluefissure
+
+### 2019年4月2日
+
+更新 `R2Arena` （竞技场服）游戏规则 By @tianyu
+
+### 2019年3月15日
+
+更新 `战争雷霆` 游戏规则 By @Bourshevik0
+
+### 2019年3月12日
+
+新增 `RagnarokOnlineTW` （仙境传说OL台湾）游戏规则 By @tianyu
 
 ### 2019年3月11日
 
